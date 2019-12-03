@@ -1,1 +1,2 @@
 # Mini-pascal-lexical-parser-
+The compiler has two main stages first one, Lexical analyzer which is generate tokens to use these tokens as an input in the parser. After first stage of designing the compiler which is lexical analyzer (Which we take all the code and split it into tokens (tokenization).  We go through the syntax analyzer that is the second stage , it depends on the lexical and it take the tokens, read it one by one and go through the grammar of the compiler to check if the code is follow the grammar or not.
