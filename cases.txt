@@ -1,0 +1,27 @@
+program example ( input , output );
+
+var x, y, greater: integer ; var A, B, C: array[100..1] of float ;
+
+
+function func1 (l , m : integer) : integer ;
+var M, N : integer ;
+var o, p, q, r, s, t: integer ;
+begin 
+Z [M * 6] = x + 5
+end;
+
+
+
+
+begin
+x = 15 ;
+y = 20 ;
+
+if x<=y then
+   greater = 33
+else
+   greater = 444;
+
+write (greater)
+
+end.
